@@ -9,7 +9,7 @@
   （｡･ω･｡)つ━☆・*。
   ⊂/　 /　　  ・゜
   しーＪ　　　 °。+ * 。☆
-   "crafting reliable AI agents & resilient backend systems"
+   "crafting reliable AI agents & backend systems"
 ```
 
 <p align="center">
